@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "454187345114",
+    "project_id": "fl03-lite-e4ae3",
+    "storage_bucket": "fl03-lite-e4ae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454187345114:android:4d0e16ac8817c62401b1e3",
+        "android_client_info": {
+          "package_name": "com.example.fl03_lite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454187345114-i62qqqqab7c3v1nhnhkdd2a9029fd7ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHTYOObK1a63UOFr-kTCf3nlLqvFariM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454187345114-i62qqqqab7c3v1nhnhkdd2a9029fd7ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
